@@ -65,4 +65,17 @@
     border-radius: 3px;
     max-width: 100% !important;
     background-color: #f3f6f6;
+    text-align: center;
+	padding: 3rem;
+}
+.notice_message_ins {
+	background: none;
+	padding: 0;
+}
+.notice_message_title_ins {
+	font-weight: bold;
+	text-transform: none;
+	font-size: 2rem;
+	line-height: 3rem;
+	margin: 0;
 }
