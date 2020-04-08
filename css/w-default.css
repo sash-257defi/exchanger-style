@@ -46,4 +46,23 @@
     font-size: 2rem;
     line-height: 3rem;
     font-weight: bold;
+    
+}
+.warning_message {
+    border: none;
+    border-radius: 3px;
+    margin: 2rem auto 0;
+    padding: 4rem 3rem;
+    max-width: 100% !important;
+    background-color: #f3f6f6;
+}
+.warning_message_ins {
+    margin: 0;
+    width: 100%;
+}
+.notice_message {
+    border: none;
+    border-radius: 3px;
+    max-width: 100% !important;
+    background-color: #f3f6f6;
 }
