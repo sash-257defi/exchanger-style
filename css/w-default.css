@@ -1,1 +1,49 @@
 /* Defaults */
+.xtl_submit, .xtl_submit:visited {
+    border-radius: 4px;
+    padding: 0;
+    font-size: 1.4rem;
+    line-height: 1.25;
+    transition: all 0.25s;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #ff444f !important;
+    text-decoration: none;
+    border: none !important;
+    outline: none;
+    height: 100%;
+    text-transform: none !important;
+}
+.xtl_submit:hover {
+    text-decoration: none;
+    background-color: #d43e47 !important;
+    color: #ffffff !important;
+}
+.exch_ajax_wrap {
+    background-color: #ffffff;
+    padding: 4rem 3.2rem;
+    border-radius: 4px;
+    box-shadow: 0 16px 20px 0 rgba(0, 0, 0, 0.05), 0 0 20px 0 rgba(0, 0, 0, 0.05);
+    width: 100%;
+    max-width: 100%;
+}
+.xchange_div, .xchange_pers {
+    margin: 0;
+    padding: 0;
+}
+.xchange_div_ins, .xchange_pers_ins {
+    margin: 0;
+    padding: 0;
+}
+.xchange_data_title, .xchange_pers_title {
+    margin: 0 0 2rem;
+    background-color: #ffffff;
+    padding: 0 0 1.6rem;
+    border-bottom: 3px solid #f2f3f4;
+}
+.xchange_data_title_ins, .xchange_pers_title_ins {
+    text-transform: none;
+    font-size: 2rem;
+    line-height: 3rem;
+    font-weight: bold;
+}
