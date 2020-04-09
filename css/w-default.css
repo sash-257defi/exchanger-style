@@ -79,3 +79,11 @@
 	line-height: 3rem;
 	margin: 0;
 }
+.select_js_title .select_js_abs {
+	background: url(https://ewallet.exchange/wp-content/uploads/stroke.png) no-repeat center;
+	float: none;
+	top: 0;
+	right: 20px;
+	height: 100%;
+	width: 12px;
+}
